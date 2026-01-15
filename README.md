@@ -88,8 +88,8 @@ Forage | September 2025
 ## 📬 Contact
 
 - **GitHub:** [jam-gohar-hamza](https://github.com/gohar-hamza) 
-- **LinkedIn:** [Jam Gohar Hamza](www.linkedin.com/in/jam-gohar-hamza-162639350)
-- **Gmail** goharhamza82@gmail.com
+- **LinkedIn:** [Jam Gohar Hamza](www.linkedin.com/in/jam-gohar-hamza-162639350 )
+- **Gmail** **goharhamza82@gmail.com**
 
 ---
 
