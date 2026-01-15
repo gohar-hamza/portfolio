@@ -7,26 +7,26 @@ Welcome to my Data Science portfolio. This repository highlights my academic bac
 ## 🎓 Education
 
 **Bachelor of Science (BS) in Data Science**  
-📍 COMSATS University Islamabad  
-📅 2024 – Present  
-🎯 **CGPA:** 3.94  
+COMSATS University Islamabad  
+2024 – Present  
+**CGPA:** 3.94  
 
 **FSc (Pre-Engineering)**  
-📍 Federal Board of Intermediate & Secondary Education (FBISE)  
-📅 2023  
-🎯 **Marks:** 90.8%  
+Federal Board of Intermediate & Secondary Education (FBISE)  
+2023  
+**Marks:** 90.8%  
 
 **Matriculation (Science)**  
-📍 Federal Board of Intermediate & Secondary Education (FBISE)  
-📅 2021  
-🎯 **Marks:** 94%
+Federal Board of Intermediate & Secondary Education (FBISE)  
+2021  
+**Marks:** 94%
 
 ---
 
 ## 💼 Work Experience
 
 ### **Lloyds Banking Group – Data Science Job Simulation**  
-📍 Forage | September 2025  
+Forage | September 2025  
 
 - Completed a real-world job simulation focused on **customer churn prediction** for the Data Science & Analytics team at Lloyds Banking Group  
 - Built and evaluated predictive models using **Random Forest** and other machine learning algorithms  
@@ -42,7 +42,7 @@ Welcome to my Data Science portfolio. This repository highlights my academic bac
 
 ## 📊 Projects
 
-### 🏠 Hostel Expenses Prediction Model  
+###  Hostel Expenses Prediction Model  
 **Tools:** R, Data Analysis, Machine Learning  
 
 - Developed an **end-to-end data science pipeline** in R  
@@ -52,7 +52,7 @@ Welcome to my Data Science portfolio. This repository highlights my academic bac
 
 ---
 
-### 😊 Facial Recognition and Attendance System  
+###  Facial Recognition and Attendance System  
 **Tools:** Python, OpenCV, Machine Learning  
 
 - Designed an automated **facial recognition–based attendance system**  
@@ -62,7 +62,7 @@ Welcome to my Data Science portfolio. This repository highlights my academic bac
 
 ---
 
-### 🛒 Smart Retail Analytics  
+###  Smart Retail Analytics  
 **Tools:** Python, Data Mining, Association Rule Mining  
 
 - Performed **data mining** on retail transaction data to uncover purchasing patterns  
