@@ -1,5 +1,5 @@
 title: Jam Gohar Hamza
 logo: /assets/images/pp.jpg
 description: Data Science Portfolio
-# show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
