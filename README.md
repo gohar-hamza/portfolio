@@ -34,8 +34,8 @@ Forage | September 2025
 - Performed advanced data preprocessing including:
   - Handling missing values  
   - Encoding categorical variables  
-  - Feature scaling  
-- Utilised **Python**, **pandas**, **scikit-learn**, and **matplotlib** for analysis and visualization  
+  - Feature scaling   
+- Utilised **Python**, **pandas**, **scikit-learn**, and **matplotlib** for analysis and visualization   
 - Optimised models using **GridSearchCV** and conducted **feature importance analysis** to extract actionable business insights  
 
 ---
